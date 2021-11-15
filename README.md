@@ -1,4 +1,4 @@
-# capstone
+# GROUP 14 Capistone  3 Project
 
 A new Flutter project.
 
